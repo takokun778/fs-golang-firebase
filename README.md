@@ -1,0 +1,1 @@
+# fs-golang-firebase
